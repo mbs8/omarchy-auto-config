@@ -1,0 +1,3 @@
+github-cli
+nwg-displays
+visual-studio-code-bin

@@ -1,0 +1,6 @@
+google-chrome
+oh-my-zsh-git
+ttf-meslo-nerd-font-powerlevel10k
+zsh-autosuggestions-git
+zsh-syntax-highlighting-git
+zsh-theme-powerlevel10k-git
